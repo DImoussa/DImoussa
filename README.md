@@ -55,6 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DImoussa/DImoussa/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/DImoussa/DImoussa/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
