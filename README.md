@@ -46,11 +46,13 @@
   ###
  
  <img align="right" src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" width="150" height="150">
- 
- 
-  ###
- 
-  <p align="left">🔧 Technologies & Skills  <br>- Languages: Java, PHP, JavaScript, Python, SQL  <br>- Frontend: ReactJS, HTML, CSS, TailwindCSS  <br>- Backend: Symfony (learning), Java, PHP  <br>- DevOps & Tools: Docker, UML,Linux</p>
+
+<img src="https://media1.tenor.com/images/d6093e98e0d763e048a88c028d1ce31b/tenor.gif?itemid=15550894" width="150" height="150" style="display: block; margin: 10px auto;">
+
+### 
+
+<p align="left">🔧 Technologies & Skills  <br>- Languages: Java, PHP, JavaScript, Python, SQL  <br>- Frontend: ReactJS, HTML, CSS, TailwindCSS  <br>- Backend: Symfony (learning), Java, PHP  <br>- DevOps & Tools: Docker, UML,Linux</p>
+
  
   ###
  
