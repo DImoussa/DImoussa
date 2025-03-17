@@ -62,3 +62,5 @@
    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/DImoussa/DImoussa/output/pacman-contribution-graph.svg">
  </picture>
   ###
+<img src="http://i.pinimg.com/originals/bb/d4/3c/bbd43ccc712f20fa2622dbb3083907b1.gif" alt="animated gif" style="display: block; margin-top: 20px;">
+
