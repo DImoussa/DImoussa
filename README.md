@@ -45,18 +45,20 @@
  
   ###
  
- <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" width="150" height="150" style="border-radius: 50%;">
-  
-  <!-- Gif positionné entre l'image et le texte -->
-  <img src="https://media1.tenor.com/images/d6093e98e0d763e048a88c028d1ce31b/tenor.gif?itemid=15550894" width="100" height="100" style="border-radius: 50%;">
-</div>
+  <!-- Utilisation de Flexbox pour gérer l'alignement -->
+  <div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+    <!-- Image de profil -->
+    <img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" width="150" height="150" style="border-radius: 50%;">
+
+    <!-- Gif entre les deux éléments -->
+    <img src="https://media1.tenor.com/images/d6093e98e0d763e048a88c028d1ce31b/tenor.gif?itemid=15550894" width="100" height="100" style="border-radius: 50%; margin-left: 20px;">
+  </div>
 
 ### 
 
 <p align="left">🔧 Technologies & Skills  <br>- Languages: Java, PHP, JavaScript, Python, SQL  <br>- Frontend: ReactJS, HTML, CSS, TailwindCSS  <br>- Backend: Symfony (learning), Java, PHP  <br>- DevOps & Tools: Docker, UML,Linux</p>
 
-  ###
+###
  
   <br clear="both">
  
@@ -67,5 +69,5 @@
  </picture>
   ###
   
-<!-- Ajout du gif en bas de la page -->
-<img src="http://i.pinimg.com/originals/bb/d4/3c/bbd43ccc712f20fa2622dbb3083907b1.gif" alt="animated gif" style="display: block; margin-top: 20px;">
+  <!-- Gif ajouté en bas -->
+  <img src="http://i.pinimg.com/originals/bb/d4/3c/bbd43ccc712f20fa2622dbb3083907b1.gif" alt="animated gif" style="display: block; margin-top: 20px;">
