@@ -45,7 +45,7 @@
  
  ###
  
- <img align="right" height="150" src="https://avatars.githubusercontent.com/u/145683211?s=400&u=79ed851e4f885059eab923322c63a4f7dad963d2&v=4"  />
+ ![Image](https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8)
  
  ###
  
