@@ -45,7 +45,8 @@
  
  ###
  
-<img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" width="150" height="150" style="border-radius: 50%; border: 5px solid #000; float: right; margin-left: 10px;">
+<img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" align="right" width="150" height="150" style="border-radius: 50; border: 5 solid #000; float: right; margin-left: 10;">
+
 
 
  
