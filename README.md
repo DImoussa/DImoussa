@@ -44,11 +44,6 @@
  <p align="left">🎓 First-year BTS SIO student, SLAM option  <br>💻 Passionate about development and software engineering</p>
  
  ###
- 
-<img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" align="right" width="150" height="150" style="border-radius: 50; border: 5 solid #000; float: right; margin-left: 10;">
-<br clear="both">
-
-
 
  
  ###
@@ -56,6 +51,9 @@
  <p align="left">🔧 Technologies & Skills  <br>- Languages: Java, PHP, JavaScript, Python, SQL  <br>- Frontend: ReactJS, HTML, CSS, TailwindCSS  <br>- Backend: Symfony (learning), Java, PHP  <br>- DevOps & Tools: Docker, UML,Linux</p>
  
  ###
+
+ <img src="https://github.com/user-attachments/assets/fcc0b020-894f-4274-ae26-67445822caf8" align="right" width="150" height="150" style="border-radius: 50; border: 5 solid #000; float: right; margin-left: 10;">
+<br clear="both">
  
  <br clear="both">
  
