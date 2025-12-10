@@ -3,8 +3,11 @@
   ###
  
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DImoussa&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DImoussa&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
+  ![](https://github-readme-stats.vercel.app/api?username=dimoussa&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dimoussa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dimoussa&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
+[![](https://visitcount.itsvg.in/api?id=dimoussa&icon=0&color=0)](https://visitcount.itsvg.in)
 </div>
 
  
