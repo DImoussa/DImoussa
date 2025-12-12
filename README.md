@@ -2,12 +2,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DImoussa&show_icons=true&theme=dracula" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DImoussa&layout=compact&card_width=320&langs_count=5&theme=dracula" height="150" alt="languages graph" />
-</div>
----
-
 ### 🛠 Tech Stack
 
 <div align="center">
