@@ -50,10 +50,11 @@
 ### 🔧 Technologies & Skills
 
 <p align="left">
-  🔹 Languages: Java, PHP, JavaScript, Python, SQL<br>
-  🔹 Frontend: ReactJS, HTML, CSS, TailwindCSS<br>
-  🔹 Backend: Symfony (learning), Java, PHP<br>
-  🔹 DevOps & Tools: Docker, UML, Linux
+🔹 Languages: Java, PHP, JavaScript, Python, SQL
+🔹 Frontend: ReactJS, HTML, CSS, TailwindCSS
+🔹 Backend: Symfony (learning), PHP, Java
+🔹 Databases & Cloud: Firebase, Firestore, Firebase Authentication, Firebase Storage
+🔹 DevOps & Tools: Docker, Git, GitHub, UML, Linux
 </p>
 
 ---
