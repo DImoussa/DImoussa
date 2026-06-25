@@ -53,7 +53,7 @@
 🔹 Languages: Java, PHP, JavaScript, Python, SQL<br>
 🔹 Frontend: ReactJS, HTML, CSS, TailwindCSS<br>
 🔹 Backend: Symfony (learning), PHP, Java<br>
-🔹 Databases & Cloud: Firebase, Firestore, Firebase Authentication, Firebase Storage<br>
+🔹 Databases & Cloud: Firebase, Firestore, Firebase Authentication, Firebase Storage, Springboot<br>
 🔹 DevOps & Tools: Docker, Git, GitHub, UML, Linux<br>
 </p>
 
