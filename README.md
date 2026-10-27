@@ -51,14 +51,14 @@
 ### 🔧 Technologies & Skills
 
 <p align="left">
-🔧 Technologies & Skills
-🔹 Languages: Java, PHP, JavaScript, TypeScript, Python, SQL, GDScript
-🔹 Frontend: ReactJS, Next.js, HTML, CSS, TailwindCSS
-🔹 Mobile: React Native, Expo (EAS)
-🔹 Backend: Symfony, Spring Boot, Node.js
-🔹 Databases & Cloud: Firebase (Firestore, Authentication, Storage)
-🔹 AI & Automation: LLM APIs, workflow automation, web scraping & bots, third-party API integrations
-🔹 Game Dev & Hardware: Godot, Arduino
+🔧 Technologies & Skills<br>
+🔹 Languages: Java, PHP, JavaScript, TypeScript, Python, SQL, GDScript<br>
+🔹 Frontend: ReactJS, Next.js, HTML, CSS, TailwindCSS<br>
+🔹 Mobile: React Native, Expo (EAS)<br>
+🔹 Backend: Symfony, Spring Boot, Node.js<br>
+🔹 Databases & Cloud: Firebase (Firestore, Authentication, Storage)<br>
+🔹 AI & Automation: LLM APIs, workflow automation, web scraping & bots, third-party API integrations<br>
+🔹 Game Dev & Hardware: Godot, Arduino<br>
 🔹 DevOps & Tools: Docker, Git, GitHub, UML, Linux
 </p>
 
