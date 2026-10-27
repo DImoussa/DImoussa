@@ -39,8 +39,9 @@
 ### 👨‍🎓 About Me
 
 <p align="left">
-  🎓 Second-year BTS SIO student, SLAM option<br>
-  💻 Passionate about development and software engineering
+  🎓 Computer Science student (Licence / Bachelor's degree)<br>
+  🤝 Work-study apprentice in Development, Automation & AI<br>
+  💻 Passionate about devOps and software engineering
 </p>
 
 ---
